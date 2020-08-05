@@ -10,7 +10,7 @@ In the first day, I learned about
  - Different Data Types
  - How to Cast into a Data Type
 
-You can find my work [here](https://github.com/saswatsamal/Coursera-Tensorflow/tree/master/Day%201).
+You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%201).
 </details>
 
 <details open>
@@ -22,5 +22,5 @@ In the second day, I learned about
  - `tkinter` Module
  - Making a GUI with Python which can take screenshot.
 
-You can find my work [here](https://github.com/saswatsamal/Coursera-Tensorflow/tree/master/Day%202).
+You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%202).
 </details>
