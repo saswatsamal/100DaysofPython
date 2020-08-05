@@ -14,3 +14,9 @@ Today I worked on creating a several projects which are listed below.
 - To avoid this we'll now create variables which will save the screenshot with random numbers like `1596658542193.png`.
 
 ![1596658542193.png](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%202/Project/Project%202%20-%20Updated%20Screenshot%20App/1596658542193.png)
+
+### Screenshot GUI App
+
+- In this project, I've made the Screenshot GUI App.
+
+- It will help to take screenshot more easily.

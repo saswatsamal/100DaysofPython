@@ -12,3 +12,15 @@ In the first day, I learned about
 
 You can find my work [here](https://github.com/saswatsamal/Coursera-Tensorflow/tree/master/Day%201).
 </details>
+
+<details open>
+<summary>Day 2</summary>
+  
+In the second day, I learned about
+ - `pyautogui` Module
+ - How to take Screenshot using Python
+ - `tkinter` Module
+ - Making a GUI with Python which can take screenshot.
+
+You can find my work [here](https://github.com/saswatsamal/Coursera-Tensorflow/tree/master/Day%202).
+</details>
