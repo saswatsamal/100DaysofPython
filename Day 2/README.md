@@ -15,7 +15,7 @@ Today I worked on creating a several projects which are listed below.
 
 ![1596658542193.png](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%202/Project/Project%202%20-%20Updated%20Screenshot%20App/1596658542193.png)
 
-### Screenshot GUI App
+### Project 3: Screenshot GUI App
 [Browse](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%202/Project/Project%203%20-%20Screenshot%20GUI%20App/ScreenshotGUI.py)
 - In this project, I've made the Screenshot GUI App.
 
