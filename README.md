@@ -33,6 +33,10 @@ In the third day, I learned about
  - Regular Expression
  - Using `re.search()` & `re.findall`.
  - Extracting Data
+ - Also I've created a project on COVID19 Notification where I used 
+    - the `win10toast` module for notification
+    - `json` module to fetch my required data
+    - `request` module to get the url's content
 
 You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%203).
 </details>
