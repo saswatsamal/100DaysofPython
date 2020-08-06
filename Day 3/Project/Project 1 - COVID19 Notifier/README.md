@@ -12,4 +12,8 @@ This is a very simple program which gives COVID19 Update to the user via desktop
 
 - I have used the APIs provided by **Javier Aviles**. You can check his repository [here](https://github.com/javieraviles/covidAPI)
 
+#### Image of the Notification
+
+![Image](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%203/Project/Project%201%20-%20COVID19%20Notifier/COVId19Notification.png)
+
 
