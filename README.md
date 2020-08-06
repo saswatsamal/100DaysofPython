@@ -24,3 +24,15 @@ In the second day, I learned about
 
 You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%202).
 </details>
+
+<details open>
+<summary>Day 3</summary>
+  
+In the third day, I learned about
+ - `re` Module
+ - Regular Expression
+ - Using `re.search()` & `re.findall`.
+ - Extracting Data
+
+You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%203).
+</details>
