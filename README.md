@@ -50,6 +50,7 @@ In the third day, I learned about
  - Using Various Modules like `wordcloud` , `fileupload` , etc.
  - Uploading a file using Python in Jupyter Notebook
  - Also I've created a project on Word Cloud where I used 
+ 
 ![image](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%204/image.png)
 
 You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%204).
