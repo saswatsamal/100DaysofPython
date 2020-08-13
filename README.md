@@ -40,3 +40,19 @@ In the third day, I learned about
 
 You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%203).
 </details>
+
+<br>
+        After some days.....
+<br>
+
+<details open>
+<summary>Day 4</summary>
+ 
+In the third day, I learned about
+ - Using Various Modules like `wordcloud` , `fileupload` , etc.
+ - Uploading a file using Python in Jupyter Notebook
+ - Also I've created a project on Word Cloud where I used 
+![image]{}
+
+You can find my work [here](https://github.com/saswatsamal/100DaysofPython/tree/master/Day%204).
+</details>
