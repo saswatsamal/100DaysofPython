@@ -5,6 +5,6 @@
 - Today I've completed the **Crash Course on Python** by Google which is under the Automate Anything using Python Specialization,
 - Under this course, today I've completed the first project i.e. **WORD CLOUD** of this specialization.
 
-![image]()
+![image](https://github.com/saswatsamal/100DaysofPython/blob/master/Day%204/image.png)
 
 - You can check my project [here]()
